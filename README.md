@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud and Web3**
 
-- 👨‍💻 All of my projects are available at [https://atharvakhule-86b9f.web.app/](https://atharvakhule-86b9f.web.app/)
+- 👨‍💻 All of my projects are available at [atharvaa.me](https://atharvaa.me/)
 
 - 💬 Ask me about **React, Nextjs, Backend**
 
